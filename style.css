@@ -321,14 +321,6 @@ body {
   position: relative;
 }
 
-.wave-top {
-  height: 160px;
-  width: 100%;
-  background: url('https://i.imgur.com/5wIuFqK.png');
-  background-size: cover;
-  background-repeat: no-repeat;
-  margin-top: -40px;
-}
 
 /* TITLES */
 .products-container {
